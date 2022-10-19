@@ -1,0 +1,12 @@
+https://github.com/pintuojha/react.git
+File to hide> main.js
+Build commands> Are available by default on speedhire app
+npm --loglevel=error install
+npm run sample_tests
+npm run main_tests
+Report path> xunittest-report.xml
+
+
+
+Long text:
+https://docs.google.com/document/d/1n7mkjDj-MNGNhkQYjA5GjAYo7xjMIcdW/edit
